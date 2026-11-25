@@ -85,6 +85,17 @@ pathfinding algorithms and influence maps.
 
 **Status:** In development
 
+### [JANS — University Game Project](https://sites.google.com/uji.es/jans-sh/home)
+
+Academic video game project developed at Universitat
+Jaume I.
+
+The project website includes information about the game,
+downloadable builds and supporting materials.
+
+[Visit project website](https://sites.google.com/uji.es/jans-sh/home)
+
+
 ## Education
 
 **Bachelor's Degree in Video Game Design and Development**
