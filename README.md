@@ -113,7 +113,7 @@ architectural reference drawings.
 **Status:** Completed — 2023/2024
 
 <a href="https://github.com/shxry/The-Novice-3D-Environment">
-  <img src="https://raw.githubusercontent.com/shxry/The-Novice-3D-Environment/main/NoWalls.png" width="650">
+  <img src="https://raw.githubusercontent.com/shxry/The-Novice-3D-Environment/main/TopRaw.png" width="650">
 </a>
 
 
