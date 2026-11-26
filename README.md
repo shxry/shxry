@@ -77,47 +77,44 @@ debugging, learning and problem-solving.
 
 ## Projects
 
-### [Wild Wars](https://github.com/Rubistyler10/Estrategia_Equipo_Cansado)
+### [Wild Wars — AI Strategy Game](https://github.com/Rubistyler10/Estrategia_Equipo_Cansado)
 
-Collaborative university project developed in Unity
-and C#, exploring turn-based strategy mechanics,
-pathfinding algorithms and influence maps.
-
-**Status:** In development
-
-### [Stealth & Infiltration — AI Game](https://github.com/NereaVM/Sigilo_Infiltracion_EquipoCansado)
-
-Collaborative university project developed in Unity
-and C# for the Artificial Intelligence course.
-
-A stealth and infiltration game exploring autonomous
-enemy navigation, perception, decision-making and
-environmental interactions.
+Collaborative turn-based strategy game developed for
+the Artificial Intelligence course at Universitat Jaume I.
 
 **My contributions:**
 
-- Development of A* pathfinding.
-- Grid-based navigation and node structures.
-- Integration of autonomous enemy movement.
-- Patrol, pursuit and return behaviours.
-- Integration with finite state machines (FSM).
-- Interactive object handling and throwing mechanics.
-- Sound-based distraction mechanics.
-- Enemy contact and defeat detection.
-
-**Technical concepts:**
-
-- Search algorithms and heuristics.
-- Graphs and data structures.
-- Autonomous agents.
-- Finite state machines.
-- Event-driven interactions.
+- A* pathfinding and heuristic optimization.
+- Grid-based navigation and graph structures.
+- Terrain-dependent movement costs and risk assessment.
+- Unit selection and autonomous movement.
+- HUD development and interactive visual feedback.
 
 **Tools:** Unity, C#, GitHub
 
-**Team:** Equipo Cansado
+**Status:** In development — 2026/2027
+
+---
+
+### [Stealth & Infiltration — AI Game](https://github.com/NereaVM/Sigilo_Infiltracion_EquipoCansado)
+
+Collaborative stealth game focused on autonomous
+enemy navigation, perception and decision-making.
+
+**My contributions:**
+
+- A* pathfinding and grid-based navigation.
+- Autonomous enemy movement.
+- Integration of patrol, pursuit and return behaviours.
+- Object interaction and throwing mechanics.
+- Sound-based distractions and contact detection.
+
+**Tools:** Unity, C#, GitHub
 
 **Status:** Completed — 2026/2027
+
+---
+
 
 
 ### [JANS — University Game Project](https://sites.google.com/uji.es/jans-sh/home)
