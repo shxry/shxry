@@ -85,6 +85,41 @@ pathfinding algorithms and influence maps.
 
 **Status:** In development
 
+### [Stealth & Infiltration — AI Game](https://github.com/NereaVM/Sigilo_Infiltracion_EquipoCansado)
+
+Collaborative university project developed in Unity
+and C# for the Artificial Intelligence course.
+
+A stealth and infiltration game exploring autonomous
+enemy navigation, perception, decision-making and
+environmental interactions.
+
+**My contributions:**
+
+- Development of A* pathfinding.
+- Grid-based navigation and node structures.
+- Integration of autonomous enemy movement.
+- Patrol, pursuit and return behaviours.
+- Integration with finite state machines (FSM).
+- Interactive object handling and throwing mechanics.
+- Sound-based distraction mechanics.
+- Enemy contact and defeat detection.
+
+**Technical concepts:**
+
+- Search algorithms and heuristics.
+- Graphs and data structures.
+- Autonomous agents.
+- Finite state machines.
+- Event-driven interactions.
+
+**Tools:** Unity, C#, GitHub
+
+**Team:** Equipo Cansado
+
+**Status:** Completed — 2026/2027
+
+
 ### [JANS — University Game Project](https://sites.google.com/uji.es/jans-sh/home)
 
 Academic video game project developed at Universitat
