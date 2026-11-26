@@ -88,7 +88,7 @@ the Artificial Intelligence course.
 - Grid-based navigation and graph structures.
 - Terrain-dependent movement costs and risk assessment.
 - Unit selection and autonomous movement.
-- HUD development and interactive visual feedback.
+
 
 **Tools:** Unity, C#, GitHub
 
