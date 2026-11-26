@@ -95,6 +95,26 @@ downloadable builds and supporting materials.
 
 [Visit project website](https://sites.google.com/uji.es/jans-sh/home)
 
+### [The Novice — 3D Architectural Environment](https://github.com/shxry/The-Novice-3D-Environment)
+
+Collaborative academic project focused on the 3D
+reconstruction of a fictional building from
+architectural reference drawings.
+
+**My contributions:**
+- 3D architectural modelling in Blender.
+- Technical drawing and plan adaptation in AutoCAD.
+- Materials and lighting.
+- Environment and landscape design.
+- Interpretation of architectural references.
+
+**Tools:** Blender, AutoCAD
+
+**Status:** Completed — 2023/2024
+
+[View project and development process](https://github.com/shxry/The-Novice-3D-Environment)
+
+
 
 ## Education
 
