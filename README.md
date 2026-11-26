@@ -80,7 +80,7 @@ debugging, learning and problem-solving.
 ### [Wild Wars — AI Strategy Game](https://github.com/Rubistyler10/Estrategia_Equipo_Cansado)
 
 Collaborative turn-based strategy game developed for
-the Artificial Intelligence course at Universitat Jaume I.
+the Artificial Intelligence course.
 
 **My contributions:**
 
